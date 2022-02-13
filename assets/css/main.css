@@ -3146,6 +3146,7 @@ input, select, textarea {
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #ffffff;
+				font-family:"Yrsa Light";
 				color: #242943;
 				display: inline-block;
 				line-height: 1.65em;
